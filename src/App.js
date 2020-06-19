@@ -37,7 +37,7 @@ export default function App() {
       return repo
     })
 
-    console.log(new_repositories);r
+    console.log(new_repositories);
 
     setRepositories(new_repositories)
   }
